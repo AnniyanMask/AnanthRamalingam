@@ -8,6 +8,9 @@ I am an IT professional with 18+ years of experience across IT operations, infra
 
 I am also focused on helping professionals and beginners learn how to build practical applications using **AI-assisted Vibe Coding**.
 
+## WEBAPPS CREATED WITH AI CODING
+* vmvibe.my
+
 ### 🚀 What I Teach
 
 * Vibe Coding with AI
